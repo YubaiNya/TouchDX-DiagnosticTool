@@ -1,7 +1,10 @@
-# PCDiagnosticTool
+<img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E4%BD%9C%E8%80%85-946ce6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="赞助作者">
+</a>
 
-> [!CAUTION]
-> **请勿在官方机台、未经授权的公共场所或任何可能违反当地法律法规和游戏服务条款的环境中使用本项目。本项目仅供个人学习和研究目的使用。**
+## 🚨 问题反馈 (Issues)
 
+**注意**：为了方便统一管理，**请将所有 Bug 反馈和功能建议统一提交至主仓库 [YubaiNya/TouchDX 的 Issues 页面](https://github.com/YubaiNya/TouchDX/issues)**。请不要在本仓库单独提交 Issue，否则可能会因为未及时看到而导致修复延误！
 
-This is a diagnostic tool for PC, used to check the connection with the Android client and display touch data.
+## 许可
+
+本项目采用 [AGPL-3.0 License](LICENSE) 开源许可。
