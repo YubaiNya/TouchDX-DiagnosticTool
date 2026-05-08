@@ -19,6 +19,14 @@ TouchDX 项目的 PC 端网络与输入诊断工具，专门为调试 **maimai D
 2. 本项目基于 .NET 构建，无需复杂的外部依赖。
 3. 编译运行即可。
 
+## 💖 赞助与支持
+
+如果您觉得这个诊断工具在排查网络问题时对您有所帮助，欢迎通过**爱发电**支持作者：
+
+<a href="https://ifdian.net/a/YubaiNya" target="_blank">
+  <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-%E8%B5%9E%E5%8A%A9%E4%BD%9C%E8%80%85-946ce6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="赞助作者">
+</a>
+
 ## 许可
 
 本项目采用 [AGPL-3.0 License](LICENSE) 开源许可。
